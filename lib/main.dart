@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
     try {
       const config = KokoroConfig(
         modelPath: 'assets/kokoro-v1.0.onnx',
-        voicesPath: 'assets/voices-v1.0.bin',
+        voicesPath: 'assets/voices.json',
       );
 
       final kokoro = Kokoro(config);
