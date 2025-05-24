@@ -1,5 +1,5 @@
-name: flutter_tts_test
-description: "A new Flutter project."
+name: kokoro_tts_flutter_example
+description: "Kokoro TTS Flutter Example"
 
 version: 1.0.0+1
 
@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  kokoro_tts_flutter: ^0.1.0
-  just_audio: ^0.9.46
+  kokoro_tts_flutter: ^0.1.2-exp
+  just_audio: ^0.10.3
   path_provider: ^2.1.5
 
 dev_dependencies:

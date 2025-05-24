@@ -156,10 +156,10 @@ packages:
     dependency: "direct main"
     description:
       name: just_audio
-      sha256: f978d5b4ccea08f267dae0232ec5405c1b05d3f3cd63f82097ea46c015d5c09e
+      sha256: d449d6b01ace3343dd8ca7f910db871994942dc58752d2765db35694f9ffe7e2
       url: "https://pub.dev"
     source: hosted
-    version: "0.9.46"
+    version: "0.10.3"
   just_audio_platform_interface:
     dependency: transitive
     description:
@@ -180,10 +180,10 @@ packages:
     dependency: "direct main"
     description:
       name: kokoro_tts_flutter
-      sha256: "296e7bd37f2e0517257e4ab171624022ea46933d61cbf33e851249ee56d735d0"
+      sha256: "3e834967f0ac09cc7ee826ada7b277706010b80e00636a8579d9cc8ed87b2583"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.1.2-exp"
   leak_tracker:
     dependency: transitive
     description:
@@ -220,10 +220,10 @@ packages:
     dependency: transitive
     description:
       name: malsami
-      sha256: a33faa0b5831fb1e2d87c0ea9fad15789d178f5408d19f23420d32ae2332df96
+      sha256: "0d3cba2dc30d57fe8223157a8a02bf9f75a7da9f0d405f9507718378bc877f9f"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.2"
   matcher:
     dependency: transitive
     description:
